@@ -22,17 +22,7 @@ code that survives production
 
 ---
 
-### projects
-- **rust-backend** – high-performance backend experiments  
-- **solana-programs** – smart contract prototypes & patterns  
-- **async-patterns** – async workflows & networking  
-- **tx-parser** – parsing blockchain transactions  
-
-*(pin your top repos here to showcase them)*
-
----
-
 ### contact
-⚫ all activity on GitHub  
-⚫ email hidden (use GitHub noreply)  
+⚫ github only
+
 
