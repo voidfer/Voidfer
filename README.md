@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**voidfer/Voidfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# voidfer ⚫
 
-Here are some ideas to get you started:
+### about
+rust backend systems · solana programs  
+focused on correctness, performance, and security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### focus
+- rust (async, networking, systems)  
+- solana (programs, accounts, tx flow)  
+- backend architecture  
+- cryptography & smart contracts  
+
+---
+
+### approach
+minimal abstractions  
+clear threat models  
+code that survives production  
+
+---
+
+### projects
+- **rust-backend** – high-performance backend experiments  
+- **solana-programs** – smart contract prototypes & patterns  
+- **async-patterns** – async workflows & networking  
+- **tx-parser** – parsing blockchain transactions  
+
+*(pin your top repos here to showcase them)*
+
+---
+
+### contact
+⚫ all activity on GitHub  
+⚫ email hidden (use GitHub noreply)  
+
